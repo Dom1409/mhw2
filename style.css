@@ -26,6 +26,9 @@
     margin-bottom: 20px;
 
 }
+
+
+
 @media(max-width:700px){
   body{
       width: 95%;
@@ -50,6 +53,8 @@
   .choice-grid div{
     width: 49%;
     height: 145px;
+    display: flex;
+    justify-content: center;
   }
 
 }
@@ -94,8 +99,6 @@ img.immagini_tot{
   padding-left: 5px;
   margin-top: 5px
 }
-
-
 
  
 
